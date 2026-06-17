@@ -8,4 +8,11 @@ let score = null
 
 let IsLoggedIn = null;
 let booleanIsLoggedIn = Boolean(IsLoggedIn)
-console.log(booleanIsLoggedIn);
+// console.log(booleanIsLoggedIn);
+
+// ******************************************* 
+
+let value = 5
+let negvalue = -value
+//console.log(negvalue);
+
